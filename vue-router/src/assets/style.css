@@ -1,0 +1,10 @@
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li,nav ul li a{
+    background: #333;
+    padding: 10px;
+    color: #fff;
+}
